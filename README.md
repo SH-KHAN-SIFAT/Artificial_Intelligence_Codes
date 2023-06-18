@@ -1,2 +1,2 @@
 # Python-Codes
-Python Codes for AI , ML , Data Science
+Python Codes for Artificial Intelligence Laboratory
